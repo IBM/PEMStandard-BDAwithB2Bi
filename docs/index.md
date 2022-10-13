@@ -1,20 +1,20 @@
-Welcome to the {{learningplan.name}} demonstration guide! The goal of this demonstration guide is to provide sellers and technical sellers from IBM and Business Partners with the knowledge and tools to perform hands-on demonstrations of {{offering.name}}. Throughout this demonstration guide {{offering.name}} will be referred to as ELM.
+Welcome to the {{learningplan.name}} demonstration guide! The goal of this demonstration guide is to provide sellers and technical sellers from IBM and Business Partners with the knowledge and tools to perform hands-on demonstrations of {{offering.name}}. Throughout this demonstration guide {{offering.name}} will be referred to as PEM.
 
 While everyone is encouraged to complete all sections of the demonstration guide, actual completion requirements vary by role:
 
 - IBM Sales:
 
-    * Complete Acts 1, 2, and 3 of this demonstration guide
+    * Complete XXXXXXX of this demonstration guide
     * Record and submit a Stand and Deliver demonstration to be evaluated by management (details in the Your Learning plan)
 
 - IBM Technical Sales:
 
-    * Complete **all** Acts of this demonstration guide
+    * Complete **all** of this demonstration guide
     * Record and submit a Stand and Deliver demonstration to be evaluated by management (details in the Your Learning plan)
 
 - Business Partner Sales:
 
-    * Complete Acts 1, 2, and 3 of this demonstration guide
+    * Complete XXXXXXX of this demonstration guide
     * Successfully pass a 5 question quiz found in the learn.ibm.com plan
 
 - Business Partner Sales:
@@ -61,8 +61,8 @@ To assist in navigating the browser-based user interface (UI), a **birds-eye vie
 
 Additionally, throughout the demonstration guide there are sample narration scripts. The short narratives can be utilized when performing client facing demonstrations.
 
-!!! quote "Sample narration"
-    In this demonstration we’ll see how an infusion pump was engineered using the IBM ELM solution, in alignment with industry standards like ISO13485 and IEC 62304 for development and ISO 14971 for risk management. We’ll break the demo up into four acts...
+<!-- !!! quote "Sample narration"
+    In this demonstration we’ll see how an infusion pump was engineered using the IBM ELM solution, in alignment with industry standards like ISO13485 and IEC 62304 for development and ISO 14971 for risk management. We’ll break the demo up into four acts... -->
 
 <!-- Additionally, there are several "click-thru" demonstrations. Links to click-thru demonstrations will open in a new browser window or tab with a screen similar to the image below.
 
@@ -81,23 +81,10 @@ Click the play button ![](_attachments/ClickThruPlayButton.png) in the middle of
 
 The following acronyms are used throughout this demonstration guide:
 
+    - Applicability Statement 2 (AS2))
     - Application programming interfaces (APIs)
-    - Architectural Management (AM)
-    - Change and Configuration Management (CCM)
-    - Control (ctrl) - The control key on keyboard
-    - Engineering Lifecycle Management (ELM)
-    - Engineering Test Management (ETM)
-    - Failure Modes and Effects Analysis (FMEA)
-    - IBM Technology Zone (TZ) - Also referred to as TechZone
-    - Identification (ID)
-    - International Electrotechnical Commission (IEC)
-    - International Organization for Standardization (ISO)
-    - Open Services for Lifecycle Collaboration (OSLC)
-    - Portable Document Format (PDF)
-    - Requirements Management (RM)
-    - Requirements Quality Assistant (RQA)
-    - Risk Priority Number (RPN)
-    - Software (SW)
+    - Artificial Intelligence (AI)
+    - IBM Sterling Partner Engagement Manager (PEM)
     - Virtual Machine (VM)
 
 It is now time to proceed to Part 1, an overview of {{offering.name}}.

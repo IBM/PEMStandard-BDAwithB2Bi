@@ -1,6 +1,6 @@
-This guide provided information to assist IBM and Business Partner sellers and technical sellers in demonstrating {{offering.name}}. Links to specific ELM topics were provided throughout this demonstration guide. Take the time to read the official <a href="https://www.ibm.com/docs/en/elm/7.0.3?topic=overview-elm" target="_blank">{{offering.name}} documentation</a> to learn the full capabilities of the offering.
+This guide provided information to assist IBM and Business Partner sellers and technical sellers in demonstrating {{offering.name}}. Links to specific PEM topics were provided throughout this demonstration guide. Take the time to read the official <a href="https://www.ibm.com/docs/en/elm/7.0.3?topic=overview-elm" target="_blank">{{offering.name}} documentation</a> to learn the full capabilities of the offering.
 
-Note, similar demonstration of ELM for other industries are available on IBM Technology Zone <a href="https://techzone.ibm.com/collection/ai-applications-live-demos-collection#tab-2" target="_blank">here</a>.
+Note, similar demonstration of PEM are available on IBM Technology Zone <a href="https://techzone.ibm.com/collection/ai-applications-live-demos-collection#tab-2" target="_blank">here</a>.
 
 Finally, remember to complete the {{learningplan.name}} learning plan in either YourLearning (IBM employees) or learn.ibm.com (Business Partners).
 
