@@ -9,8 +9,8 @@ This demonstration assumes users have at least basic knowledge of {{offering.nam
 
 The demonstration is divided into XXXXXXX parts:
 
-Part 1 -
-Part 2 -
+Use Case 1 - In **Use Case 1**, explore how to on-board a new partner using the Applicability Statement 2 (AS2) Protocol.
+Use Case 2 -
 
 The video below provides a sample introduction to the demonstration. XXXXXXX maybe point to the collection demo if they get the link fixed! XXXXXXX
 

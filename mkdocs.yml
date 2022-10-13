@@ -16,6 +16,9 @@ nav:
   - Overview:
     - 'The Demonstration': 'Part 1/01 Introduction.md'
     - 'Demonstration Environment Preparation': 'Part 1/02 DemoPreparation.md'
+  - Use Case 1:
+    - 'Use Case Introduction': 'Part 2/01 UseCase1.md'
+    - 'Demonstration Steps': 'Part 2/02 UseCase1Steps.md'
   - 'Next steps': 'NextSteps.md'
 
 theme:

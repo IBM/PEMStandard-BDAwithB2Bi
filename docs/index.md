@@ -4,7 +4,7 @@ While everyone is encouraged to complete all sections of the demonstration guide
 
 - IBM Sales:
 
-    * Complete XXXXXXX of this demonstration guide
+    * Complete Use Cases XXXXXXX of this demonstration guide
     * Record and submit a Stand and Deliver demonstration to be evaluated by management (details in the Your Learning plan)
 
 - IBM Technical Sales:
@@ -14,7 +14,7 @@ While everyone is encouraged to complete all sections of the demonstration guide
 
 - Business Partner Sales:
 
-    * Complete XXXXXXX of this demonstration guide
+    * Complete Use Cases XXXXXXX of this demonstration guide
     * Successfully pass a 5 question quiz found in the learn.ibm.com plan
 
 - Business Partner Sales:
@@ -84,6 +84,7 @@ The following acronyms are used throughout this demonstration guide:
     - Applicability Statement 2 (AS2))
     - Application programming interfaces (APIs)
     - Artificial Intelligence (AI)
+    - Electronic Data Interchange (EDI)
     - IBM Sterling Partner Engagement Manager (PEM)
     - Virtual Machine (VM)
 
